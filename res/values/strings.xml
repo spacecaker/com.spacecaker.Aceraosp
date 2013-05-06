@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="info1">Acer AOSP Enabler</string>
+    <string name="info2">After Select Enable or Disable, Phone Automatically Reboots</string>
+    <string name="rootinfo">(ROOT is required Also Mount Data before with su mount -o remount,rw / data in terminal)</string>
+    <string name="space_name">Acer AOSP Enabler</string>
+    <string name="developer_url">http://forum.xda-developers.com/member.php?u=3862405</string>
+    <string name="developer_version">SpaceCaker</string>
+    <string name="credits">"Credits:
+===========
+Spacecaker @ XDA"</string>
+    <string name="note">NOTE:</string>
+    <string name="mount">Enable</string>
+    <string name="unmount">Disable</string>
+    <string name="design">Design :</string>
+</resources>

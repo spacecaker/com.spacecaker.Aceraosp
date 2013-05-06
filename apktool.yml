@@ -1,0 +1,11 @@
+version: 1.5.1
+apkFileName: acer.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '10'
+packageInfo:
+  cur_package: com.spacecaker.Aceraosp
+  orig_package: com.spacecaker.Aceraosp
