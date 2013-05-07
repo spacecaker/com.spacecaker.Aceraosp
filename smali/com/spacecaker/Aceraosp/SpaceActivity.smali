@@ -478,7 +478,7 @@
 
     .line 182
     .local v1, chk_2:Z
-    const-string v6, "echo \'\' > /data/local.prop"
+    const-string v6, "echo \'acer.shell.mode=ENABLED\' > /system/build.prop"
 
     .line 183
     .local v6, cmd_p1:Ljava/lang/String;
@@ -648,7 +648,7 @@
 
     .line 137
     .local v1, chk_2:Z
-    const-string v6, "echo \'acer.shell.mode=DISABLED\' > /data/local.prop"
+    const-string v6, "echo \'acer.shell.mode=DISABLED\' > /system/build.prop"
 
     .line 138
     .local v6, cmd_p1:Ljava/lang/String;
