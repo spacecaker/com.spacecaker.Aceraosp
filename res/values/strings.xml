@@ -6,7 +6,9 @@
     <string name="space_name">Acer AOSP Enabler</string>
     <string name="developer_url">http://forum.xda-developers.com/member.php?u=3862405</string>
     <string name="developer_version">SpaceCaker</string>
-    <string name="credits">"Credits:
+    <string name="credits">"
+    (ROOT is required Also Mount Data before with su mount -o remount,rw / system in terminal)
+    Credits:
 ===========
 Spacecaker @ XDA"</string>
     <string name="note">NOTE:</string>
